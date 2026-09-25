@@ -1,1 +1,4 @@
-hello from article 2
+Personal
+
+- Go skydiving
+- Experience a total solar eclipse

@@ -1,1 +1,4 @@
-hello from article 3
+Financial
+
+- Be financially independent
+- Be financially stable
