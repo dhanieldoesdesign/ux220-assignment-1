@@ -4,6 +4,6 @@ In 5 years time, I would have graduated by then, and I would like to have gradua
 
 - Graduate with at least a 10.4/12.0 GPA (~3.4 equivalent)
 - Learn how to sew my own clothes
-- Learn other programming languages, like C# or Rust
+- Learn other programming languages, like C++ or Rust
 
 ![Source: rawpixel.com, Photo of people graduating](photo_4s.png)
